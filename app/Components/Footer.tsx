@@ -52,7 +52,7 @@ export const Footer = () => {
 
     <div className='flex footer_copyright'>
       <p>@ 2023 Flexibble. All rigts reserved</p>
-      <p className='text-gray'><span className='text-black font-semibold'></span></p>
+      <p className='text-gray'><span className='text-black font-semibold'></span> Test</p>
     </div>
 
   </footer>
